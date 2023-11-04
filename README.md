@@ -5,6 +5,6 @@
 ### Study Repository List 🏀
 - [함께 학습하는 동아리 - 함학리 🏘️](https://github.com/devKobe24/HamHakRi)
 - [Today I Learned - TIL 📚](https://github.com/devKobe24/TIL)
-- [Algorithm Repository 🧩](https://github.com/devKobe24/TIL)
+- [Algorithm Repository 🧩](https://github.com/devKobe24/algorithm)
 - [iOS 인터뷰 시리즈 🎙️](https://github.com/devKobe24/iOS-Interview)
 - [Kobe의 CS 공부 🧑‍💻](https://github.com/devKobe24/CS)
