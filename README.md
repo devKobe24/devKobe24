@@ -13,6 +13,7 @@
 - [iOS 인터뷰 시리즈 🎙️](https://github.com/devKobe24/iOS-Interview)
 - [Kobe의 CS 공부 🧑‍💻](https://github.com/devKobe24/CS)
 - [Kobe의 RxSwift 공부 🐉](https://github.com/devKobe24/RxSwift-Study)
+- [Kobe의 Mongo DB 공부 🐵](https://github.com/devKobe24/MongoDB-Study)
 
 ### Project Repository List 🏀
 - [MonthlyWidget](https://github.com/devKobe24/MonthlyWidget)
