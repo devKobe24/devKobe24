@@ -12,6 +12,7 @@
 ## Strengths In-Depth Understanding Test
 - [GALLUP 강점 심층 이해 검사 🧪](https://github.com/devKobe24/DailyLog_Kobe/blob/main/contents/GALLUP.md)
 
+## Most used Languaues
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devKobe24&layout=compact)
 
 ## Introduce
