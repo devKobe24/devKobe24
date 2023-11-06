@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=I'm%20Kobe&fontSize=90&fontColor=ffffff)
 
-# <span style="color: red">코드로 말하는 iOS 개발자 강민성 입니다.</span>
+# 코드로 말하는 iOS 개발자 강민성 입니다.
 
 ## 연락처.
 - Email. ✉️ dev.skyachieve91@gmail.com
