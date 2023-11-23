@@ -45,7 +45,6 @@
 - [iOS 인터뷰 시리즈 🎙️](https://github.com/devKobe24/iOS-Interview)
 - [Kobe의 CS 공부 🧑‍💻](https://github.com/devKobe24/CS)
 - [Kobe의 RxSwift 공부 🐉](https://github.com/devKobe24/RxSwift-Study)
-- [Kobe의 Mongo DB 공부 🐵](https://github.com/devKobe24/MongoDB-Study)
 - [Kobe의 Data Structure & Algorithm 공부 📖](https://github.com/devKobe24/DataStructure)
 
 ### 프로젝트 레포지토리 목록 🏀
