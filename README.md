@@ -47,6 +47,7 @@
 - [Kobe의 RxSwift 공부 🐉](https://github.com/devKobe24/RxSwift-Study)
 - [Kobe의 Data Structure & Algorithm 공부 📖](https://github.com/devKobe24/DataStructure)
 - [Kobe의 Swift Deep Dive🤿](https://github.com/devKobe24/SwiftDeepDive)
+- [Kobe의 Compiler Deep Dive🤿](https://github.com/devKobe24/CompilerDeepDive/tree/main)
 
 ### 프로젝트 레포지토리 목록 🏀
 - [MonthlyWidget](https://github.com/devKobe24/MonthlyWidget)
