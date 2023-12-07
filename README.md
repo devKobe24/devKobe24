@@ -36,7 +36,7 @@
 
 ### 데일리 로그 📓
 **하루의 일과 레포지토리**
-- [Daily Log 📓](https://github.com/devKobe24/DailyLog_Kobe)
+- [Daily Log 📓](https://github.com/devKobe24/DailyLog_Kobe/wiki/Welcome-%F0%9F%98%86)
 
 ### 스터디 레포지토리 목록 🏀
 - [함께 학습하는 동아리 - 함학리 🏘️](https://github.com/devKobe24/HamHakRi)
