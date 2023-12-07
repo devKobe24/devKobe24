@@ -35,7 +35,7 @@
 - 2010.03 ~ 2018.03 목원대학교 경영정보전공 학사 졸.
 
 ### 데일리 로그 📓
-**하루의 일과 레포지토리**
+**하루의 일과**
 - [Daily Log 📓](https://github.com/devKobe24/DailyLog_Kobe/wiki/Welcome-%F0%9F%98%86)
 
 ### 스터디 레포지토리 목록 🏀
