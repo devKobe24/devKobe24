@@ -1,6 +1,6 @@
 <img src="https://github.com/devKobe24/images/blob/main/summer_kobe_20.JPG?raw=true" width=500 alt="한여름의나."><br>
 
-<img src="https://github.com/devKobe24/images/blob/main/BMC.jpg?raw=true" width=100 alt="BMC-LOGO"><br>
+<img src="https://github.com/devKobe24/images/blob/main/BMC.jpg?raw=true" width=100 alt="BMC-LOGO"><img src="https://github.com/devKobe24/images/blob/main/%E2%9A%A0%EF%B8%8F%F0%9F%8E%B6%20Warning%20Sign%20Alert%20with%20VHS%20Glitch%20Effect%20VJ%20Loop%20Background%20Video%20for%20Edits%20(FREE%20DOWNLOAD)%20(1).gif?raw=true" width=190 alt="warning"><br>
 
 <img src="https://img.shields.io/badge/ios-000000?style=for-the-badge&logo=ios&logoColor=white"><br>
 
