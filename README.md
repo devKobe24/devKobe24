@@ -1,4 +1,4 @@
-<img src="https://github.com/devKobe24/images/blob/main/summer_kobe_20.JPG?raw=true" width=500 alt="한여름의나."><br>
+<img src="https://github.com/devKobe24/images/blob/main/summer_kobe_20.JPG?raw=true" width=500 alt="한여름의나."><img src="https://github.com/devKobe24/images/blob/main/BMC.jpg?raw=true" width=500 alt="BMC-LOGO"><br>
 
 <img src="https://img.shields.io/badge/ios-000000?style=for-the-badge&logo=ios&logoColor=white"><br>
 
