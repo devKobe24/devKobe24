@@ -12,5 +12,7 @@
 
 <img src="https://img.shields.io/badge/Vapor-0D0D0D?style=for-the-badge&logo=Vapor&logoColor=white"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white"><img src="https://img.shields.io/badge/amazonroute53-232F3E?style=for-the-badge&logo=amazonroute53&logoColor=white"><br>
 
-
+<a href="https://minseong-kang.notion.site/235efc2cee9045abb770b69ef4f40bc4?v=b3aa5f9e49994a73a4ea94a21ff04fac&pvs=73">
+  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+</a>
 
