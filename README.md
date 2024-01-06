@@ -15,4 +15,10 @@
 <a href="https://minseong-kang.notion.site/235efc2cee9045abb770b69ef4f40bc4?v=b3aa5f9e49994a73a4ea94a21ff04fac&pvs=73">
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 </a>
+<a href="https://www.linkedin.com/in/minseong-kang-1a8595181/">
+  <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+
+
 
