@@ -22,7 +22,7 @@
     <p style="margin-left:10px;">
         <h1>Connect with me 🤝</h1>
     </p>
-    <a href="dev.skyachieve@gmail.com">
+    <a href="dev.skyachieve91@gmail.com">
         <img src="https://img.shields.io/badge/gmail-EA4335?style=social&logo=gmail&logoColor=red" alt="메일"><br>
     </a>
 </body>
