@@ -35,7 +35,7 @@
       <img src="https://img.shields.io/badge/medium-000000?style=social&logo=medium&logoColor=black">
     </a>
     <p style="margin-left:10px;">
-        <h1>Languages and Tools 🧑‍💻🛠️</h1>
+        <h1>Languages and Tools 🧑‍💻</h1>
     </p>
     <p>
         <img src="https://img.shields.io/badge/ios-000000?style=for-the-badge&logo=ios&logoColor=white">
