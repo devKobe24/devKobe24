@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=HELLO%20I'M%20KOBE&fontSize=90)
 <img src="https://github.com/devKobe24/images/blob/main/summer_kobe_20.JPG?raw=true" width=300 alt="한여름의나."><br>
 <a href="https://www.devkobe24.com">
   <img src="https://github.com/devKobe24/images/blob/main/moniter.jpeg?raw=true" width=180 alt="Monitor"><img src="https://github.com/devKobe24/images/blob/main/BMC.jpg?raw=true" width=150 alt="BMC-LOGO"><img src="https://github.com/devKobe24/images/blob/main/1011Computer.jpeg?raw=true" width=215 alt="1011">
