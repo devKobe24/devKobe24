@@ -34,6 +34,12 @@
     <a href="https://medium.com/@dev.skyachieve91">
       <img src="https://img.shields.io/badge/medium-000000?style=social&logo=medium&logoColor=black">
     </a>
+    <p style="margin-left:10px;">
+        <h1>Languages and Tools 🧑‍💻🛠️</h1>
+    </p>
+    <code><img src="images/swift.jpeg" width=30, height=30></code>
+    <code><img src="images/vapor.png" width=30, height=30></code>
+    
 </body>
 </html>
 
