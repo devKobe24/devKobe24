@@ -23,7 +23,10 @@
         <h1>Connect with me 🤝</h1>
     </p>
     <a href="mailto:dev.skyachieve91@gmail.com">
-        <img src="https://img.shields.io/badge/gmail-EA4335?style=social&logo=gmail&logoColor=red" alt="메일"/>
+        <img src="https://img.shields.io/badge/gmail-EA4335?style=social&logo=gmail&logoColor=red" alt="메일">
+    </a>
+    <a href="https://minseong-kang.notion.site/235efc2cee9045abb770b69ef4f40bc4?v=b3aa5f9e49994a73a4ea94a21ff04fac&pvs=73">
+        <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
     </a>
 </body>
 </html>
