@@ -3,8 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  
-  
 </head>
 <body>
     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FdevKobe24&count_bg=%23FFB03A&title_bg=%23191818&icon=sat-dot-1.svg&icon_color=%23EF8D09&title=hits&edge_flat=false"/></a>         
@@ -41,7 +39,7 @@
         <img src="https://img.shields.io/badge/ios-000000?style=for-the-badge&logo=ios&logoColor=white">
         <img src="https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
         <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
-        <img src="https://img.shields.io/badge/vapor-0D0D0D?style=for-the-badge&logo=vapor&logoColor=white"><br>
+        <img src="https://img.shields.io/badge/vapor-000000?style=for-the-badge&logo=vapor&logoColor=white"><br>
         <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
         <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
         <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"><br>
@@ -50,6 +48,12 @@
         <img src="https://img.shields.io/badge/amazonroute53-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white"><br>
         <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
         <img src="https://img.shields.io/badge/xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white"><br>
+    </p>
+    <p style="margin-left:10px;">
+        <h3>The Playlist I Chose Today 💿</h3>
+        <a href="https://youtu.be/gcv8VqDk52A?si=PSTEFxlEC2woPZ-V">
+            <img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"><br>
+        </a>
     </p>
 </body>
 </html>
