@@ -50,6 +50,24 @@
         <img src="https://img.shields.io/badge/xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white"><br>
     </p>
     <p style="margin-left:10px;">
+        <h3>Repository List</h3>
+        <a href="https://github.com/devKobe24/web_Study">
+            <img src="https://img.shields.io/badge/Web Study-181717?style=for-the-badge&logo=github&logoColor=white"><br>
+        </a>
+        <a href="https://github.com/devKobe24/SwiftDeepDive">
+            <img src="https://img.shields.io/badge/Swift Deep Dive-181717?style=for-the-badge&logo=github&logoColor=white"><br>
+        </a>
+        <a href="https://github.com/devKobe24/cppDeepDive">
+            <img src="https://img.shields.io/badge/Cpp Deep Dive-181717?style=for-the-badge&logo=github&logoColor=white"><br>
+        </a>
+        <a href="https://github.com/devKobe24/UIKobeKit">
+            <img src="https://img.shields.io/badge/UIKobeKit-181717?style=for-the-badge&logo=github&logoColor=white"><br>
+        </a>
+        <a href="https://github.com/devKobe24/TIL">
+            <img src="https://img.shields.io/badge/TIL-181717?style=for-the-badge&logo=github&logoColor=white"><br>
+        </a>
+    </p>
+    <p style="margin-left:10px;">
         <h3>The Playlist I Chose Today 💿</h3>
         <a href="https://youtu.be/gcv8VqDk52A?si=PSTEFxlEC2woPZ-V">
             <img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"><br>
