@@ -32,6 +32,9 @@
     <a href="https://medium.com/@dev.skyachieve91">
       <img src="https://img.shields.io/badge/medium-000000?style=social&logo=medium&logoColor=black">
     </a>
+    <a href="https://www.reddit.com/user/devKobe/">
+      <img src="https://img.shields.io/badge/reddit-FF4500?style=social&logo=reddit&logoColor=orange">
+    </a>
     <p style="margin-left:10px;">
         <h1>Languages and Tools 🧑‍💻</h1>
     </p>
