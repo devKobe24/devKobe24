@@ -35,6 +35,9 @@
     <a href="https://www.reddit.com/user/devKobe/">
       <img src="https://img.shields.io/badge/reddit-FF4500?style=social&logo=reddit&logoColor=orange">
     </a>
+    <a href="https://twitter.com/devkobe24">
+      <img src="https://img.shields.io/badge/X, twitter-000000?style=social&logo=x&logoColor=black">
+    </a>
     <p style="margin-left:10px;">
         <h1>Languages and Tools 🧑‍💻</h1>
     </p>
