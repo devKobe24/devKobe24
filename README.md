@@ -28,7 +28,7 @@
     </a>
     <a href="https://www.linkedin.com/in/minseong-kang-1a8595181/">
       <img src="https://img.shields.io/badge/linkedin-0A66C2?style=social&logo=linkedin&logoColor=blue">
-    </a>
+    </a><br>
     <a href="https://medium.com/@dev.skyachieve91">
       <img src="https://img.shields.io/badge/medium-000000?style=social&logo=medium&logoColor=black">
     </a>
@@ -37,6 +37,9 @@
     </a>
     <a href="https://twitter.com/devkobe24">
       <img src="https://img.shields.io/badge/X, twitter-000000?style=social&logo=x&logoColor=black">
+    </a><br>
+    <a href="https://www.devkobe24.com">
+      <img src="https://img.shields.io/badge/blog-F68315?style=social&logo=homeadvisor&logoColor=black">
     </a>
     <p style="margin-left:10px;">
         <h1>Languages and Tools 🧑‍💻</h1>
