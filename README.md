@@ -41,6 +41,9 @@
     <a href="https://www.devkobe24.com">
       <img src="https://img.shields.io/badge/blog-F68315?style=social&logo=homeadvisor&logoColor=black">
     </a>
+    <a href="https://forums.swift.org/u/kobe24/summary">
+      <img src="https://img.shields.io/badge/swift forums-F05138?style=social&logo=swift&logoColor=orange">
+    </a>
     <p style="margin-left:10px;">
         <h1>Languages and Tools 🧑‍💻</h1>
     </p>
