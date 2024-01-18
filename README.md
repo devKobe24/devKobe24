@@ -10,7 +10,7 @@
     <h1>I'm Swift programmer, a iOS developer, and a BMC CREW! 😆</h1>
     <img src="https://github.com/devKobe24/images/blob/main/summer_kobe_20.JPG?raw=true" width=450 height=450 alt="한여름의나." align="right"><br>
     <p style="margin-left:10px;">
-        * 🧑‍💻 I’m currently working on PUMP.<br>
+        * 🧑‍💻 I recently worked at PUMP.<br>
         * 👨‍🎓 I’m graduated from Mokwon Univ.<br>
         * 🐻 I completed the 9th Yagom Career Starter Camp.<br>
         * 🔍 I am looking for a project to contribute to in Swift.<br>
