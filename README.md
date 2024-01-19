@@ -95,7 +95,7 @@
     </p>
     <p style="margin-left:10px;">
         <h3>The Playlist I Chose Today 💿</h3>
-        <a href="https://youtu.be/siKMHWEitvM?si=7DUk2vXHZYBGo9z8">
+        <a href="https://youtu.be/ZdwCvRS3-MY?si=Lm2ocEZPW0b1d50a">
             <img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"><br>
         </a>
     </p>
