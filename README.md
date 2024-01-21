@@ -98,7 +98,6 @@
         <a href="https://youtu.be/Rbn8VdBtRAo?si=fFsCi2IToQm917YW">
             <img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"><br>
         </a>
-        <video src="https://github.com/devKobe24/devKobe24/blob/main/images/245C7EE0-4535-4C95-84DC-3A07D6363E77.MP4" controls></video>
     </p>
 </body>
 </html>
