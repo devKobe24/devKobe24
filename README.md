@@ -3,8 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
-    </script>
 </head>
 <body>
     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FdevKobe24&count_bg=%23FFB03A&title_bg=%23191818&icon=sat-dot-1.svg&icon_color=%23EF8D09&title=hits&edge_flat=false"/></a>         
