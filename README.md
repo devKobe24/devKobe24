@@ -18,18 +18,6 @@
         * 📝 I enjoy learning, organizing, and then documenting.<br>
     </p>
     <p style="margin-left:10px;">
-        <h1>Contribute 🧑‍💻</h1>
-    </p>
-    <a href="https://github.com/daveverwer/iOSDevDirectory/pulls?q=is%3Apr+is%3Aclosed+author%3AdevKobe24">
-        <img src="https://img.shields.io/badge/iOS Dev Directory-000000?style=for-the-badge&logo=aseprite&logoColor=white">
-    </a>
-     <p style="margin-left:10px;">
-        <h1>Package 📦</h1>
-    </p>
-    <a href="https://swiftpackageindex.com/devKobe24/UIKobeKit">
-        <img src="https://img.shields.io/badge/UIKobekit-BE2323?style=for-the-badge&logo=ebox&logoColor=white">
-    </a>
-    <p style="margin-left:10px;">
         <h1>Connect with me 🤝</h1>
     </p>
     <a href="mailto:dev.skyachieve91@gmail.com">
@@ -55,6 +43,18 @@
     </a>
     <a href="https://forums.swift.org/u/kobe24/summary">
       <img src="https://img.shields.io/badge/swift forums-F05138?style=social&logo=swift&logoColor=orange">
+    </a>
+    <p style="margin-left:10px;">
+        <h1>Contribute 🧑‍💻</h1>
+    </p>
+    <a href="https://github.com/daveverwer/iOSDevDirectory/pulls?q=is%3Apr+is%3Aclosed+author%3AdevKobe24">
+        <img src="https://img.shields.io/badge/iOS Dev Directory-000000?style=for-the-badge&logo=aseprite&logoColor=white">
+    </a>
+     <p style="margin-left:10px;">
+        <h1>Package 📦</h1>
+    </p>
+    <a href="https://swiftpackageindex.com/devKobe24/UIKobeKit">
+        <img src="https://img.shields.io/badge/UIKobekit-BE2323?style=for-the-badge&logo=ebox&logoColor=white">
     </a>
     <p style="margin-left:10px;">
         <h1>Languages and Tools 🧑‍💻</h1>
