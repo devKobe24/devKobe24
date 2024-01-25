@@ -26,7 +26,9 @@
      <p style="margin-left:10px;">
         <h1>Package 📦</h1>
     </p>
-    <a href="https://swiftpackageindex.com/devKobe24/UIKobeKit">📦 UIKobeKit</a>
+    <a href="https://swiftpackageindex.com/devKobe24/UIKobeKit">
+        <img src="https://img.shields.io/badge/UIKobekit-BE2323?style=for-the-badge&logo=ebox&logoColor=white">
+    </a>
     <p style="margin-left:10px;">
         <h1>Connect with me 🤝</h1>
     </p>
