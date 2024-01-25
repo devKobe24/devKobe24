@@ -18,6 +18,15 @@
         * 📝 I enjoy learning, organizing, and then documenting.<br>
     </p>
     <p style="margin-left:10px;">
+        <h1>Resume & Portfolio Website 🌐</h1>
+    </p>
+    <p>
+        <a href="http://min-seong.com/">
+            <img src="https://github.com/devKobe24/devKobe24/assets/124736003/6b3ec7b4-3f03-455f-8c0c-afe847f64527">
+            <strong>Under construction</strong>
+        </a>
+    </p>
+    <p style="margin-left:10px;">
         <h1>Connect with me 🤝</h1>
     </p>
     <a href="mailto:dev.skyachieve91@gmail.com">
