@@ -18,7 +18,7 @@
         * 📝 I enjoy learning, organizing, and then documenting.<br>
     </p>
     <p style="margin-left:10px;">
-        <h1>Resume & Portfolio Website 🌐</h1>
+        <h2>Resume & Portfolio Website 🌐</h2>
     </p>
     <a href="http://min-seong.com/">
         <img src="https://img.shields.io/badge/Under construction * 공사중-000000?style=for-the-badge&logo=aseprite&logoColor=white">
