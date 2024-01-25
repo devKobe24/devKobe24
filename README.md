@@ -3,6 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    </script>
 </head>
 <body>
     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FdevKobe24&count_bg=%23FFB03A&title_bg=%23191818&icon=sat-dot-1.svg&icon_color=%23EF8D09&title=hits&edge_flat=false"/></a>         
@@ -20,12 +22,9 @@
     <p style="margin-left:10px;">
         <h1>Resume & Portfolio Website 🌐</h1>
     </p>
-    <p>
-        <a href="http://min-seong.com/">
-            <img src="https://github.com/devKobe24/devKobe24/assets/124736003/6b3ec7b4-3f03-455f-8c0c-afe847f64527">
-            <strong>Under construction</strong>
-        </a>
-    </p>
+    <div>
+        <i class="fa-sharp fa-regular fa-globe"></i>
+    </div>
     <p style="margin-left:10px;">
         <h1>Connect with me 🤝</h1>
     </p>
