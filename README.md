@@ -20,9 +20,9 @@
     <p style="margin-left:10px;">
         <h1>Resume & Portfolio Website 🌐</h1>
     </p>
-    <div>
-        <i class="fa-sharp fa-regular fa-globe"></i>
-    </div>
+    <a href="http://min-seong.com/">
+        <img src="https://img.shields.io/badge/Under construction * 공사중-000000?style=for-the-badge&logo=aseprite&logoColor=white">
+    </a>
     <p style="margin-left:10px;">
         <h1>Connect with me 🤝</h1>
     </p>
