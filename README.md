@@ -115,6 +115,8 @@
 </body>
 </html>
 
+### Top Langs
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devKobe24\&layout=compact&theme=dark#gh-dark-mode-only)
 
 
 
