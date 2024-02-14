@@ -25,6 +25,12 @@
         <img src="https://img.shields.io/badge/Under construction * 공사중-000000?style=for-the-badge&logo=aseprite&logoColor=white">
     </a>
     <p style="margin-left:10px;">
+        <h2>Kobe's Blog 🌐</h2>
+    </p>
+    <a href="https://www.devkobe24.com/">
+        <img src="https://img.shields.io/badge/Kobe's Blog-000000?style=for-the-badge&logo=aseprite&logoColor=white">
+    </a>
+    <p style="margin-left:10px;">
         <h1>Connect with me 🤝</h1>
     </p>
     <img src="https://github.com/devKobe24/images/blob/main/myfirstprofile.png?raw=true" width=200 height=200>
