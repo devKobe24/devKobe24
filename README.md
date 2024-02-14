@@ -31,10 +31,6 @@
         <img src="https://img.shields.io/badge/Kobe's Blog-000000?style=for-the-badge&logo=aseprite&logoColor=white">
     </a>
     <p style="margin-left:10px;">
-        <h1>Connect with me 🤝</h1>
-    </p>
-    <img src="https://github.com/devKobe24/images/blob/main/myfirstprofile.png?raw=true" width=200 height=200>
-    <p style="margin-left:10px;">
         <h1>Contribute 🧑‍💻</h1>
     </p>
     <a href="https://github.com/daveverwer/iOSDevDirectory/pulls?q=is%3Apr+is%3Aclosed+author%3AdevKobe24">
@@ -89,6 +85,10 @@
             <img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"><br>
         </a>
     </p>
+    <p style="margin-left:10px;">
+        <h1>Connect with me 🤝</h1>
+    </p>
+    <img src="https://github.com/devKobe24/images/blob/main/myfirstprofile.png?raw=true" width=200 height=200>
 </body>
 </html>
 
