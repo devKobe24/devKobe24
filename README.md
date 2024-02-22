@@ -19,12 +19,6 @@
         * 📝 I enjoy learning, organizing, and then documenting.<br>
     </p>
     <p style="margin-left:10px;">
-        <h2>Resume & Portfolio Website 🌐</h2>
-    </p>
-    <a href="http://min-seong.com/">
-        <img src="https://img.shields.io/badge/Resume & Portfolio Website-000000?style=for-the-badge&logo=aseprite&logoColor=white">
-    </a>
-    <p style="margin-left:10px;">
         <h2>Kobe's Blog 🌐</h2>
     </p>
     <a href="https://www.devkobe24.com/">
