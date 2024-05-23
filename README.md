@@ -88,8 +88,8 @@
     </p>
     <p style="margin-left:10px;">
         <h1>Connect with me 🤝</h1>
+        <a href="mailto:dev.skyachieve91@gmail.com">dev.skyachieve91@gmail.com</a>
     </p>
-    <img src="https://github.com/devKobe24/images/blob/main/myfirstprofile.png?raw=true" width=200 height=200>
 </body>
 </html>
 
