@@ -30,6 +30,11 @@
     <a href="https://github.com/daveverwer/iOSDevDirectory/pulls?q=is%3Apr+is%3Aclosed+author%3AdevKobe24">
         <img src="https://img.shields.io/badge/iOS Dev Directory-000000?style=for-the-badge&logo=aseprite&logoColor=white">
     </a>
+    <p>
+    <a href="https://github.com/gyoogle/tech-interview-for-developer/pulls?q=is%3Apr+is%3Aclosed+author%3AdevKobe24">
+        <img src="https://img.shields.io/badge/tech interview for developer-000000?style=for-the-badge&logo=aseprite&logoColor=white">
+    </a>
+    </p>
      <p style="margin-left:10px;">
         <h1>Package 📦</h1>
     </p>
