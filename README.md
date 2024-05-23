@@ -61,17 +61,17 @@
     </p>
     <p style="margin-left:10px;">
         <h3>Repository List</h3>
-        <a href="https://github.com/devKobe24/iOSDevLinksCollectionByBMC">
-            <img src="https://img.shields.io/badge/iOS Dev Links Collection-181717?style=for-the-badge&logo=github&logoColor=white"><br>
+        <a href="https://github.com/devKobe24/practiceJava">
+            <img src="https://img.shields.io/badge/Java First Steps with Code-181717?style=for-the-badge&logo=github&logoColor=white"><br>
+        </a>
+        <a href="https://github.com/devKobe24/practiceJava-2">
+            <img src="https://img.shields.io/badge/Practical Java Basic Course-181717?style=for-the-badge&logo=github&logoColor=white"><br>
         </a>
         <a href="https://github.com/devKobe24/web_Study">
             <img src="https://img.shields.io/badge/Web Study-181717?style=for-the-badge&logo=github&logoColor=white"><br>
         </a>
         <a href="https://github.com/devKobe24/SwiftDeepDive">
             <img src="https://img.shields.io/badge/Swift Deep Dive-181717?style=for-the-badge&logo=github&logoColor=white"><br>
-        </a>
-        <a href="https://github.com/devKobe24/cppDeepDive">
-            <img src="https://img.shields.io/badge/Cpp Deep Dive-181717?style=for-the-badge&logo=github&logoColor=white"><br>
         </a>
         <a href="https://github.com/devKobe24/UIKobeKit">
             <img src="https://img.shields.io/badge/UIKobeKit-181717?style=for-the-badge&logo=github&logoColor=white"><br>
