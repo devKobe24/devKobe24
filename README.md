@@ -17,6 +17,8 @@
         * 🔍 I am looking for a project to contribute to in Swift.<br>
         * 😍 I am very interested in compilers.<br>
         * 📝 I enjoy learning, organizing, and then documenting.<br>
+        <br>
+        <br>
     </p>
     <p style="margin-left:10px;">
         <h2>Kobe's Blog 🌐</h2>
