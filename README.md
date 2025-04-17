@@ -6,7 +6,6 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">      
 </head>
 <body>      
-    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FdevKobe24&count_bg=%23FFB03A&title_bg=%23191818&icon=sat-dot-1.svg&icon_color=%23EF8D09&title=hits&edge_flat=false"/></a>         
     <img src=https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=HELLO%20I'M%20KOBE&fontSize=90>
     <h1>A traveler who loves nature, stars, and books</h1>
     <img src="https://github.com/devKobe24/images/blob/main/summer_kobe_20.JPG?raw=true" width=220 height=220 alt="한여름의나." align="right"><br>
