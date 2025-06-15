@@ -20,6 +20,15 @@
         <br>
     </p>
     <p style="margin-left:10px;">
+        <h2>Repository List 📦</h2>
+        <a href="https://github.com/devKobe24/BlogProject_BE">
+            <img src="https://img.shields.io/badge/Blog Project Backend-181717?style=for-the-badge&logo=github&logoColor=white"><br>
+        </a>
+        <a href="https://github.com/devKobe24/Ecommerce_BE">
+            <img src="https://img.shields.io/badge/Ecommerce_BE-181717?style=for-the-badge&logo=github&logoColor=white"><br>
+        </a>
+    </p>
+    <p style="margin-left:10px;">
         <h2>Kobe's Blog 🌐</h2>
     </p>
     <a href="https://www.devkobe24.com/">
@@ -52,15 +61,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-plain.svg" width=50px height=50px/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width=50px height=50px/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width=50px height=50px/>
-    </p>
-    <p style="margin-left:10px;">
-        <h3>Repository List</h3>
-        <a href="https://github.com/devKobe24/BlogProject_BE">
-            <img src="https://img.shields.io/badge/Blog Project Backend-181717?style=for-the-badge&logo=github&logoColor=white"><br>
-        </a>
-        <a href="https://github.com/devKobe24/Ecommerce_BE">
-            <img src="https://img.shields.io/badge/Ecommerce_BE-181717?style=for-the-badge&logo=github&logoColor=white"><br>
-        </a>
     </p>
     <p style="margin-left:10px;">
         <h3>The Playlist I Chose Today 💿</h3>
