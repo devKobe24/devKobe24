@@ -28,7 +28,7 @@
             <img src="https://img.shields.io/badge/Ecommerce_BE-181717?style=for-the-badge&logo=github&logoColor=white"><br>
         </a>
         <a href="https://github.com/devKobe24/JoinTheMembership">
-            <img src="https://img.shields.io/badge/Join the membership-181717?style=for-the-badge&logo=github&logoColor=white"><br>
+            <img src="https://img.shields.io/badge/Join the membership Backend-181717?style=for-the-badge&logo=github&logoColor=white"><br>
         </a>
     </p>
     <p style="margin-left:10px;">
