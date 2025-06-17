@@ -30,6 +30,9 @@
         <a href="https://github.com/devKobe24/JoinTheMembership">
             <img src="https://img.shields.io/badge/Join the membership Backend-181717?style=for-the-badge&logo=github&logoColor=white"><br>
         </a>
+        <a href="https://github.com/devKobe24/loginAndLogoutJWT">
+            <img src="https://img.shields.io/badge/Login and Logout JWT Backend-181717?style=for-the-badge&logo=github&logoColor=white"><br>
+        </a>
     </p>
     <p style="margin-left:10px;">
         <h2>Kobe's Blog 🌐</h2>
