@@ -21,6 +21,9 @@
     </p>
     <p style="margin-left:10px;">
         <h2>Repository List 📦</h2>
+        <a href="https://github.com/devKobe24/MyFavoriteNetflix">
+            <img src="https://img.shields.io/badge/My Favorite Netflix-181717?style=for-the-badge&logo=github&logoColor=white"><br>
+        </a>
         <a href="https://github.com/devKobe24/BlogProject_BE">
             <img src="https://img.shields.io/badge/Blog Project Backend-181717?style=for-the-badge&logo=github&logoColor=white"><br>
         </a>
