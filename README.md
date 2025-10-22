@@ -13,8 +13,8 @@
         * 🧑‍💻 I recently worked at PUMP.<br>
         * 👨‍🎓 I’m graduated from Mokwon Univ.<br>
         * 🐻 I completed the 9th Yagom Career Starter Camp.<br>
-        * 🔍 I am looking for a project to contribute to in Swift.<br>
-        * 😍 I am very interested in compilers.<br>
+        * 🔍 I am looking for a project to contribute to in SpringBoot<br>
+        * 😍 I am very interested in JVM<br>
         * 📝 I enjoy learning, organizing, and then documenting.<br>
         <br>
         <br>
