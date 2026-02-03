@@ -21,26 +21,26 @@
     </p>
     <p style="margin-left:10px;">
         <h2>Repository List 📦</h2>
-        <a href="https://github.com/devKobe24/MyFavoriteNetflix">
-            <img src="https://img.shields.io/badge/My Favorite Netflix-181717?style=for-the-badge&logo=github&logoColor=white"><br>
+        <a href="https://github.com/devKobe24/DevKobeBlog">
+            <img src="https://img.shields.io/badge/DevKobeBlog-181717?style=for-the-badge&logo=github&logoColor=white"><br>
         </a>
-        <a href="https://github.com/devKobe24/BlogProject_BE">
-            <img src="https://img.shields.io/badge/Blog Project Backend-181717?style=for-the-badge&logo=github&logoColor=white"><br>
+        <a href="https://github.com/devKobe24/kobe-website">
+            <img src="https://img.shields.io/badge/Kobe Website-181717?style=for-the-badge&logo=github&logoColor=white"><br>
         </a>
-        <a href="https://github.com/devKobe24/Ecommerce_BE">
-            <img src="https://img.shields.io/badge/Ecommerce_BE-181717?style=for-the-badge&logo=github&logoColor=white"><br>
+        <a href="https://github.com/devKobe24/pokekernal">
+            <img src="https://img.shields.io/badge/Pokekernal-181717?style=for-the-badge&logo=github&logoColor=white"><br>
         </a>
-        <a href="https://github.com/devKobe24/JoinTheMembership">
-            <img src="https://img.shields.io/badge/Join the membership Backend-181717?style=for-the-badge&logo=github&logoColor=white"><br>
+        <a href="https://github.com/devKobe24/moamart">
+            <img src="https://img.shields.io/badge/Moamart-181717?style=for-the-badge&logo=github&logoColor=white"><br>
         </a>
-        <a href="https://github.com/devKobe24/loginAndLogoutJWT">
-            <img src="https://img.shields.io/badge/Login and Logout JWT Backend-181717?style=for-the-badge&logo=github&logoColor=white"><br>
+        <a href="https://github.com/devKobe24/clicksnap">
+            <img src="https://img.shields.io/badge/ClickSnap-181717?style=for-the-badge&logo=github&logoColor=white"><br>
         </a>
-        <a href="https://github.com/devKobe24/OAuth2">
-            <img src="https://img.shields.io/badge/OAuth2-181717?style=for-the-badge&logo=github&logoColor=white"><br>
+        <a href="https://github.com/devKobe24/recomon">
+            <img src="https://img.shields.io/badge/Recomon-181717?style=for-the-badge&logo=github&logoColor=white"><br>
         </a>
-        <a href="https://github.com/devKobe24/kobe-board">
-            <img src="https://img.shields.io/badge/Board Backend Project-181717?style=for-the-badge&logo=github&logoColor=white"><br>
+        <a href="https://github.com/devKobe24/solitaire">
+            <img src="https://img.shields.io/badge/Solitaire-181717?style=for-the-badge&logo=github&logoColor=white"><br>
         </a>
     </p>
     <p style="margin-left:10px;">
