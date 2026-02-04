@@ -67,20 +67,20 @@ public class Developer {
 <tr>
 <td width="50%">
 
-### 🏪 [MinseongDayuk](https://github.com/devKobe24/MinseongDayuk)
-다육식물 전문 쇼핑몰 플랫폼
-- **Tech**: Spring Boot, JPA, MySQL, Redis
-- **Features**: 회원관리, 주문/결제, 상품관리
-- **Highlights**: JWT 인증, 이메일 인증, 주소 API 연동
+### 🏪 [DevKobeBlog](https://github.com/devKobe24/DevKobeBlog)
+개발 블로그
+- **Tech**: Spring Boot 3.2.2, JPA, MySQL, Docker, AWS S3, JGit, Flexmark, Thymeleaf
+- **Features**: Git-Driven CMS, GitHub Webhook 자동 동기화, 마크다운 파싱, S3 이미지 자동 업로드, 카테고리/태그 시스템
+- **Highlights**: Git Push만으로 블로그 자동 발행, 마크다운 Front Matter 기반 메타데이터 관리, 비동기 동기화 처리로 성능 최적화
 
 </td>
 <td width="50%">
 
 ### 🎮 [PokeKernal](https://github.com/devKobe24/pokekernal)
 포켓몬 카드 컬렉션 관리 시스템
-- **Tech**: Spring Boot, JPA, AWS S3
-- **Features**: 카드 관리, 이미지 업로드
-- **Highlights**: RESTful API, 파일 저장소 통합
+- **Tech**: Spring Boot 3.2.0, JPA, QueryDSL, MySQL, AWS S3/CloudFront, Chart.js, Thymeleaf
+- **Features**: 카드 등록/관리, 상태별 분류(7단계), 시세 추적 및 그래프 시각화, 수익률 분석 대시보드, 위시리스트 관리
+- **Highlights**: 이미지 자동 S3 업로드 및 CDN 배포, 개별/전체 컬렉션 수익률 계산, 프로필별 환경 분리(dev: H2 로컬, prod: MySQL + S3)
 
 </td>
 </tr>
@@ -89,18 +89,18 @@ public class Developer {
 
 ### 🛒 [Moamart](https://github.com/devKobe24/moamart)
 픽업 서비스 기반 온라인 마켓
-- **Tech**: Spring Boot, MySQL
-- **Features**: 상품 주문, 픽업 예약
-- **Highlights**: 위치 기반 서비스
+- **Tech**: Spring Boot 3.x, JPA, QueryDSL, Spring Security, MySQL, AWS S3, Thymeleaf, Thumbnailator
+- **Features**: 매장별 픽업 서비스, 실시간 재고 관리, 부분 반품/교환 시스템, 비회원 주문, 종량제 봉투 선택, Markdown 상품 설명
+- **Highlights**: 개별 상품 단위 상태 관리로 부분 반품/교환 지원, 이미지 자동 리사이징 및 최적화(Thumbnailator), 차액/환불 금액 자동 계산
 
 </td>
 <td width="50%">
 
 ### 📸 [ClickSnap](https://github.com/devKobe24/clicksnap)
 4컷 사진부스 서비스
-- **Tech**: Spring Boot, JPA
-- **Features**: 사진 촬영, 프레임 선택
-- **Highlights**: 이미지 처리, 실시간 프리뷰
+- **Tech**: Spring Boot 3.3.5, Canvas API, MediaStream API, Vanilla JavaScript, Multipart File Upload
+- **Features**: 웹캠 실시간 촬영, 5초 카운트다운, 11가지 감성 필터, 4컷 자동 합성(900x1200 → 1000x5200 스트립), PNG 다운로드
+- **Highlights**: Canvas Filter API + Pixel-level Fallback으로 모든 브라우저 호환, UUID 기반 파일명 및 Path Traversal 방지로 보안 강화
 
 </td>
 </tr>
@@ -111,22 +111,9 @@ public class Developer {
 
 - **[Recomon](https://github.com/devKobe24/recomon)** - 다마고치 스타일 몬스터 키우기 게임
 - **[Solitaire](https://github.com/devKobe24/solitaire)** - 클래식 카드 게임 구현
-- **[DevKobeBlog](https://github.com/devKobe24/DevKobeBlog)** - 기술 블로그 콘텐츠
 - **[Kobe Website](https://github.com/devKobe24/kobe-website)** - 개인 포트폴리오 웹사이트
 
 </details>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devKobe24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devKobe24&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
