@@ -109,7 +109,7 @@ public class Developer {
 <details>
 <summary><b>📚 More Projects</b></summary>
 
-- **[Recomon](https://github.com/devKobe24/recomon)** - 다마고치 스타일 몬스터 키우기 게임
+- **[Recomon](https://github.com/devKobe24/recomon)** - AI 기반 도서 추천 시스템
 - **[Solitaire](https://github.com/devKobe24/solitaire)** - 클래식 카드 게임 구현
 - **[Kobe Website](https://github.com/devKobe24/kobe-website)** - 개인 포트폴리오 웹사이트
 
