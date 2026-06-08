@@ -6,8 +6,6 @@
 
 *A traveler who loves nature, stars, and books*
 
-[![Blog](https://img.shields.io/badge/Blog-www.devkobe24.com-black?style=flat-square&logo=aseprite)](https://www.devkobe24.com/)
-[![Blog](https://img.shields.io/badge/Blog-Dev_kobe_Blog-black?style=flat-square&logo=aseprite)](https://devkobe-blog.com//)
 [![Email](https://img.shields.io/badge/Email-dev.skyachieve91@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dev.skyachieve91@gmail.com)
 
 </div>
