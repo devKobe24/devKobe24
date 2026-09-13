@@ -32,30 +32,29 @@ public class Developer {
 
 ---
 
-## 🛠️ Tech Stack
+## 🪈 Open Source
 
-### Backend
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Lombok](https://img.shields.io/badge/Lombok-BC4521?style=for-the-badge&logo=lombok&logoColor=white)
+### [piedpiper](https://github.com/devKobe24/piedpiper)
 
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+**명세 문서에서 Phase별 구현과 기능 마감까지 안내하는 Claude Code 워크플로 플러그인**
 
-### Authentication & Security
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Workflow-D97757?style=flat-square)](https://github.com/devKobe24/piedpiper)
+[![MIT License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](https://github.com/devKobe24/piedpiper/blob/main/LICENSE)
 
-### DevOps & Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+요구사항 정리, 조사, 구현 계획, 리뷰, 완료 보고를 하나의 흐름으로 연결합니다.</br>
+현재 진행 상황을 판단해 **사용자가 확인하고 실행할 다음 명령어**를 완성해 제시합니다.
 
-### Tools
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- **명세 구체화**: 미결 사항을 질문으로 정리하고, 조사에 필요한 질문과 확정된 답변을 기록합니다.
+- **Phase 계획**: 각 구현 단계에 테스트 통과 여부처럼 판정 가능한 완료 조건을 정의합니다.
+- **진행 상태 확인**: 완료로 기록된 Phase를 실제 소스·테스트 파일과 대조해 다음 단계를 안내합니다.
+- **결정 근거 전달**: 의도적으로 유지한 코드와 그 이유를 리뷰 안내에 포함하고, 기능 완료 보고서로 정리합니다.
+
+**설계 포인트**: `CLAUDE.md`에는 계획을, `.progress-report/`에는 진행 상태와 결정 근거를 분리해 관리합니다.</br>
+Claude Code의 `/deep-research`, `/goal`과 [ponytail](https://github.com/DietrichGebert/ponytail)을 연결하며, 상태 파일은 사용자가 관리합니다.
+
+**검증 경험**: Spring Boot 프로젝트(Java 21 + Gradle, 할 일 목록 API)에서 명세 작성부터 기능 하나 완료까지 전체 흐름을 확인했습니다.
+
+[설치 및 사용 방법](https://github.com/devKobe24/piedpiper#readme) · [문제 신고 및 피드백](https://github.com/devKobe24/piedpiper/issues)
 
 ---
 
@@ -122,13 +121,29 @@ public class Developer {
 
 ---
 
+## 🛠️ Tech Stack
+
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
+
+| Area | Technologies |
+| --- | --- |
+| Backend | Java, Spring Boot, JPA / Hibernate, QueryDSL, Lombok |
+| Database | MySQL, Redis |
+| Authentication & Security | Spring Security, JWT |
+| DevOps & Cloud | AWS, Docker |
+| Developer Tools | Claude Code, Git, IntelliJ IDEA, VS Code |
+
+---
+
 ## 📫 Contact Me
 
-<div align="center">
+Spring Boot 프로젝트와 개발 도구에 관한 이야기, 협업 제안을 환영합니다.
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.skyachieve91@gmail.com)
-
-</div>
 
 ---
 
