@@ -117,7 +117,7 @@ Claude Code의 `/deep-research`, `/goal`과 [ponytail](https://github.com/Dietri
 ## 📱 Released Apps
 
 - **Focus Habit Tracker** — [View on the App Store](https://apps.apple.com/kr/app/focus-habit-tracker/id6787873226)
-- **Pholendar** — [View on the App Store](https://apps.apple.com/kr/app/pholendar/id789025192)
+- **Pholendar** — [View on the App Store](https://apps.apple.com/kr/app/pholendar/id6789025192)
 
 ---
 
